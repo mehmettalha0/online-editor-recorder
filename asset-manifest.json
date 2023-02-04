@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/online-editor-recorder/static/css/main.88ef19e7.css",
+    "main.js": "/online-editor-recorder/static/js/main.24090ed5.js",
+    "index.html": "/online-editor-recorder/index.html",
+    "main.88ef19e7.css.map": "/online-editor-recorder/static/css/main.88ef19e7.css.map",
+    "main.24090ed5.js.map": "/online-editor-recorder/static/js/main.24090ed5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ef19e7.css",
+    "static/js/main.24090ed5.js"
+  ]
+}
