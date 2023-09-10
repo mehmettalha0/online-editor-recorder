@@ -29,7 +29,9 @@ function Preview() {
 
   return (
     <div className={styles.content}>
-      {!srcDoc && <div className={styles.previewLoading}>teamturkey.xyz</div>}
+      {!srcDoc && (
+        <div className={styles.previewLoading}>mehmettalha.com.tr</div>
+      )}
       {srcDoc && (
         <iframe className={styles.preview} srcDoc={srcDoc} title="#" />
       )}
